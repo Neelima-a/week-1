@@ -1,0 +1,225 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+      display: table-cell; 
+}
+.padding{
+  padding: 0px !important;
+}
+.left.carousel-control.carouselbtn{
+  width: 0px;
+}
+.right .carousel-control.carouselbtn{
+  width: 0px !important;
+}
+.lefttop{
+  	height: 817px;
+  	background-color: black;
+  	color: white;
+}
+.enquirybtn{
+	margin-top: 40px;
+	padding: 4px 25px;
+	background-color: #e89e00;
+}  
+.logo{
+	margin-top: 140px;
+}
+hr{
+  width: 50px;
+}
+.icons{
+	margin-top: 250px;
+	font-size: 20px;
+}
+.icons a{
+	color: white;
+ 	margin: 0px 15px;
+}
+.arow-left{
+margin-top: 210px;
+background-color: #e89e00;
+padding: 30px 10px 30px 15px!important;
+}
+.arow-right{
+  margin-top: 210px;
+  margin-right: 0px;
+  background-color: #e89e00;
+  padding: 30px 10px 30px 15px !important;
+}
+.bold {
+  color: #292929;
+  margin-top: 70px;
+}
+.para {
+  color: #999999;
+  margin-bottom: 35px !important;
+}
+.about-text {
+  background-color: #e4b654;
+  padding: 120px 40px 100px 50px !important;
+  text-align: left;
+   height: 418px;
+}
+.about-text-head {
+  color: black;
+}
+.travel{
+  background-color: black;
+  color: white;
+  height: 242px;
+  padding: 64px 20px 60px 30px !important;
+  font-size: 13px;
+}
+.education{
+  background-color: #9dca2d;;
+  color: white;
+  height: 242px;
+  padding: 53px 20px 53px 30px !important;
+  font-size: 13px;
+}
+.shopping{
+  background-color: rgba(127,127,127,0.2);
+  color: black;
+  height: 242px;
+  padding: 55px 20px 55px 30px !important;
+  font-size: 13px;
+}
+.health{
+  background-color: #e4b654;
+  color: white;
+  height: 242px;
+  padding: 57px 20px 57px 30px !important;
+  font-size: 13px;
+}
+.floor-text {
+  color: #e89e00;
+}
+.padding-right{
+  padding-right: 0px !important;
+}
+.margin{
+  margin-bottom: 25px;
+  margin-right: 10px;
+}
+.floor-plan2 {
+  padding: 10px 30px; 
+  border-radius: 0px;
+  border: none; 
+}
+.btn.floor-plan2{
+  margin-bottom: 30px;
+  background-color:  #292929; 
+  color: white;
+}
+.btn.floorplan3{
+  margin-bottom: 30px;
+  background-color: rgba(127,127,127,0.2);
+}
+
+.floor-plan3 {
+  padding: 10px 30px;
+  border-radius: 0px;
+  border: none;
+}
+.floorpln-text {
+  padding-top: 20px;
+  padding-left: 5PX;
+}
+.active-floorpln { 
+  background-image: url('SEARCH.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.thumbnail.active-floorpln{
+  background-color: rgba(127,127,127,0.7);
+}
+#search-img:hover{
+  background-image: url('SEARCH.png');
+  background-repeat: no-repeat;
+  background-position: center;
+background-color: rgba(127,127,127,0.7);
+}
+.contactus{
+  color: #292929;
+  background-color: rgba(127,127,127,0.1);
+    padding: 190px 150px !important;
+}
+.specific-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btn.specific-button-active {
+  background-color: #292929;
+  color: white;
+  padding: 6px 12px;
+}
+.btn.specific-btn:hover{
+  background-color: #292929;
+  color: white;
+}
+.specific {
+  padding-left: 20px;
+  color: #292929 !important;
+  text-align: left !important;
+}
+.specific-main {
+  padding: 0px;
+  margin-top: 40px;
+  border-radius: 15px;
+  margin-bottom: 50px;
+}
+.specific-content{
+ padding-top: 40px !important;
+}
+.floor-text {
+  color: #e89e00;
+  padding-left: 20px;
+}
+.spec-floor-text{
+  color: #292929;
+  text-align: left; 
+}
+.imagetxt{ 
+  background-color: rgba(158, 91, 91, 0.4);
+   position: absolute; 
+   font-weight: bold;
+   text-align: left;
+   top: 200px; 
+   left: 160px; 
+   padding: 15px;
+ 
+}
+.contact-para {
+  font-size: 9px;
+}
+.logobot{
+  margin: 40px 0px 20px 35px;
+}
+.contactus{
+  /*margin: 50px;*/
+  height: 500px;
+  background-color: orange;
+}
+.contactus-right{
+  background-color: pink;
+  height: 500px;
+}
+.project-address {
+  margin-top: 30px;
+}
+.footerpara{
+  margin-left: 50px;
+}
+.travel-txt{
+   position: absolute;
+   top: 215px;
+   left: 100px;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size: 17px;
+   width: 45%;
+   height: 27px;
+}
